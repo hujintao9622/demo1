@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //这是我的第一个github
         //找控件
         vp = findViewById(R.id.vp);
         rg = findViewById(R.id.rg);
